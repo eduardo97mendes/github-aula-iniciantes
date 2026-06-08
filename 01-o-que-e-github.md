@@ -31,4 +31,7 @@ O **GitHub** é a estante na nuvem onde esse caderno fica guardado e pode ser co
 2. Criar um repositório
 3. Editar arquivos pelo navegador
 4. Fazer seu primeiro commit
-5. (Opcional) Usar Git no terminal
+5. Montar README de perfil (portfólio)
+6. (Opcional, em casa) Usar Git no terminal
+
+> **Na escola?** Você faz os passos 1 a 5 **só pelo navegador**, sem instalar nada. Veja [00-aula-pelo-navegador.md](./00-aula-pelo-navegador.md).

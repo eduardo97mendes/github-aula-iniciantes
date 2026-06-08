@@ -1,6 +1,9 @@
 # Git no terminal
 
-Esta etapa é opcional na primeira aula, mas recomendada para quem quer usar o computador.
+> **Está na escola ou em um computador público?**  
+> **Pule este arquivo.** Você não precisa instalar o Git — faça tudo pelo navegador: [00-aula-pelo-navegador.md](./00-aula-pelo-navegador.md)
+
+Esta etapa é **opcional** e indicada para quem está em um **computador pessoal** (casa), com permissão para instalar programas.
 
 Os comandos Git são **iguais no Mac e no Windows**. O que muda é como abrir o terminal e como instalar o Git.
 

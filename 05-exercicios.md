@@ -1,5 +1,7 @@
 # Exercícios da aula
 
+> **Na escola (sem instalar Git):** faça os exercícios 1 a 4 e 6 **pelo site do GitHub** (Edit → Commit changes). Pule o exercício 5.
+
 ## Exercício 1 — Perfil no README (repositório de prática)
 
 Edite o `README.md` do seu repositório `minha-primeira-aula` e adicione:
@@ -82,9 +84,11 @@ Exemplo:
 
 ---
 
-## Exercício 5 — Pelo terminal (desafio)
+## Exercício 5 — Pelo terminal (desafio) — só em casa
 
-Se você instalou o Git no computador (Mac ou Windows — veja [04-git-no-terminal.md](./04-git-no-terminal.md)):
+**Pule este exercício na escola.** Computadores da escola geralmente não permitem instalar o Git.
+
+Se você instalou o Git no **seu computador em casa** (Mac ou Windows — veja [04-git-no-terminal.md](./04-git-no-terminal.md)):
 
 1. Clone seu repositório
 2. Crie o arquivo `desafio-terminal.md`
@@ -115,5 +119,8 @@ Você concluiu a aula quando:
 - [ ] Criou o repositório `minha-primeira-aula`
 - [ ] Criou o repositório de perfil (mesmo nome do usuário)
 - [ ] README de perfil com: sobre mim, tecnologias (já sei / aprendendo / quero aprender) e projetos
-- [ ] Fez pelo menos 3 commits
-- [ ] Sabe explicar o que é commit e push
+- [ ] Fez pelo menos 3 commits (pelo navegador ou terminal)
+- [ ] Sabe explicar o que é commit
+- [ ] (Escola) Fez logout ao sair do computador
+
+> Terminal e `git push` são **bônus** para fazer em casa — não são obrigatórios para concluir a aula na escola.
