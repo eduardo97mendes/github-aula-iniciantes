@@ -1,6 +1,6 @@
 # Exercícios da aula
 
-## Exercício 1 — Perfil no README
+## Exercício 1 — Perfil no README (repositório de prática)
 
 Edite o `README.md` do seu repositório `minha-primeira-aula` e adicione:
 
@@ -13,7 +13,36 @@ Edite o `README.md` do seu repositório `minha-primeira-aula` e adicione:
 
 ---
 
-## Exercício 2 — Arquivo de apresentação
+## Exercício 2 — README de perfil (portfólio no GitHub) ⭐
+
+Este é o exercício principal de personalização. Siga o guia [06-readme-de-perfil-portfolio.md](./06-readme-de-perfil-portfolio.md).
+
+### O que fazer
+
+1. Crie um repositório **público** com o **mesmo nome do seu usuário** do GitHub
+   - Exemplo: se seu usuário é `maria-silva`, o repo deve se chamar `maria-silva`
+2. Marque **Add a README file**
+3. Edite o `README.md` com:
+   - Apresentação (quem você é em 1–2 frases)
+   - Seção **Sobre mim**
+   - Seção **Tecnologias** dividida em:
+     - ✅ **Já sei** — o que você domina
+     - 📚 **Estou aprendendo** — o que estuda agora
+     - 🎯 **Quero aprender** — o que pretende estudar
+   - Seção **Projetos em destaque** (pode colocar "em construção" se ainda não tiver)
+   - Seção **Contato** com link do seu GitHub
+
+### Inspiração
+
+Veja o perfil do professor: [github.com/eduardo97mendes](https://github.com/eduardo97mendes)
+
+Modelo simplificado para copiar: [exemplos/README-perfil-portfolio-exemplo.md](./exemplos/README-perfil-portfolio-exemplo.md)
+
+**Commit sugerido:** `Cria README de perfil e portfólio`
+
+---
+
+## Exercício 3 — Arquivo de apresentação
 
 Crie um arquivo `apresentacao.md` com:
 
@@ -33,7 +62,7 @@ Descreva uma ideia simples de projeto que gostaria de colocar no GitHub.
 
 ---
 
-## Exercício 3 — Lista de estudos
+## Exercício 4 — Lista de estudos
 
 Crie um arquivo `estudos.md` com uma lista de 5 coisas que você quer aprender este ano.
 
@@ -53,7 +82,7 @@ Exemplo:
 
 ---
 
-## Exercício 4 — Pelo terminal (desafio)
+## Exercício 5 — Pelo terminal (desafio)
 
 Se você configurou o Git no computador:
 
@@ -67,7 +96,7 @@ Se você configurou o Git no computador:
 
 ---
 
-## Exercício 5 — Explorar o GitHub
+## Exercício 6 — Explorar o GitHub
 
 No seu repositório, encontre e responda:
 
@@ -84,6 +113,7 @@ Você concluiu a aula quando:
 
 - [ ] Criou conta no GitHub
 - [ ] Criou o repositório `minha-primeira-aula`
+- [ ] Criou o repositório de perfil (mesmo nome do usuário)
+- [ ] README de perfil com: sobre mim, tecnologias (já sei / aprendendo / quero aprender) e projetos
 - [ ] Fez pelo menos 3 commits
-- [ ] Tem os arquivos `README.md` e `apresentacao.md`
 - [ ] Sabe explicar o que é commit e push

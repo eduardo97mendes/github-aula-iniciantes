@@ -59,4 +59,5 @@ Você acabou de fazer seu **primeiro commit**! O GitHub salvou uma nova versão 
 
 ## Próximo passo
 
-Se quiser usar o computador, continue em [04-git-no-terminal.md](./04-git-no-terminal.md).
+- Para personalizar seu perfil como portfólio: [06-readme-de-perfil-portfolio.md](./06-readme-de-perfil-portfolio.md)
+- Para usar o computador: [04-git-no-terminal.md](./04-git-no-terminal.md)
