@@ -19,4 +19,6 @@
 | **Remote** | Conexão entre seu projeto local e o GitHub |
 | **Repository (repo)** | Pasta do projeto no GitHub |
 | **SSH** | Forma segura de conectar o computador ao GitHub |
+| **Git Bash** | Terminal do Git no Windows, com comandos parecidos com Mac/Linux |
+| **HTTPS** | Forma simples de clonar e enviar código usando usuário e senha/token |
 | **Staging** | Área de preparação antes do commit (`git add`) |

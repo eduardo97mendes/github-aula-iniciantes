@@ -84,7 +84,7 @@ Exemplo:
 
 ## Exercício 5 — Pelo terminal (desafio)
 
-Se você configurou o Git no computador:
+Se você instalou o Git no computador (Mac ou Windows — veja [04-git-no-terminal.md](./04-git-no-terminal.md)):
 
 1. Clone seu repositório
 2. Crie o arquivo `desafio-terminal.md`

@@ -5,7 +5,7 @@ Bem-vindo(a)! Este repositório é material de prática para a primeira aula de 
 ## Pré-requisitos
 
 - Conta no GitHub
-- (Opcional) Git instalado no computador
+- (Opcional) Git instalado no computador (Mac ou Windows — veja [04-git-no-terminal.md](./04-git-no-terminal.md))
 
 ## Roteiro da aula
 
